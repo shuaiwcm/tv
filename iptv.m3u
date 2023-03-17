@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://genglicai.3322.org:9901/tsfile/live/0003_1.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://jydx.jdshipin.com:8081/hls/5/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://z1.mk:5678/sxgnew.php?id=CCTV-5plusH265_4000
+http://118.24.227.124/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://z1.mk:5678/sxgnew.php?id=CCTV-8H265_4000
+http://118.24.227.124/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://z1.mk:5678/sxgnew.php?id=CCTV-9H265_4000
+http://118.24.227.124/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://ggzy.7766.org:808/hls/11/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_1200.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://z1.mk:5678/sxgnew.php?id=CCTV-xw_4000
+http://118.24.227.124/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://ggzy.7766.org:808/hls/1014/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://ggzy.7766.org:808/hls/1015/index.m3u8
+http://118.24.227.124/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4EUO
 http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4AME
