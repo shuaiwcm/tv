@@ -1,76 +1,66 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://118.24.227.124/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://118.24.227.124/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://118.24.227.124/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://118.24.227.124/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://118.24.227.124/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://118.24.227.124/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://118.24.227.124/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://118.24.227.124/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://118.24.227.124/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://118.24.227.124/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://118.24.227.124/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://118.24.227.124/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://118.24.227.124/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://118.24.227.124/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://118.24.227.124/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://118.24.227.124/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4EUO
-http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4AME
-http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8K
-http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
-http://z1.mk:5678/sxgnew.php?id=ys4Kcq_2000
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://hls.yun.gehua.net.cn:8088/live/HuNanHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://hls.yun.gehua.net.cn:8088/live/JiangSuHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://hls.yun.gehua.net.cn:8088/live/ZheJiangHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://106.225.230.119/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://hls.yun.gehua.net.cn:8088/live/GuangDongHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://hls.yun.gehua.net.cn:8088/live/ShenZhenHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://hls.yun.gehua.net.cn:8088/live/BTV1HD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://hls.yun.gehua.net.cn:8088/live/ShanDongHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://hls.yun.gehua.net.cn:8088/live/HuBeiHD_1200.m3u8
+https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://hls.yun.gehua.net.cn:8088/live/LiaoNingHD_1200.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://hls.yun.gehua.net.cn:8088/live/FuJian_2000.m3u8
+https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://hls.yun.gehua.net.cn:8088/live/JiangXi_2000.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://hls.yun.gehua.net.cn:8088/live/ChongQing_2000.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://hls.yun.gehua.net.cn:8088/live/SiChuan_2000.m3u8
+https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://hls.yun.gehua.net.cn:8088/live/GuangXi_2000.m3u8
+https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://hls.yun.gehua.net.cn:8088/live/HeNan_2000.m3u8
+https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
