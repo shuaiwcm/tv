@@ -5,7 +5,9 @@ IPTV
 用于自己测试网络直播源的有效性
 #### 软件架构
 软件架构说明
-iptv
+clash.yaml为tpclash的配置文件模板  
+iptv.m3u为iptv视频源  
+iptv6.m3u为iptv6的视频源  
 
 #### 安装教程
 
