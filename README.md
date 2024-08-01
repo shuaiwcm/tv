@@ -8,6 +8,7 @@ IPTV
 clash.yaml为tpclash的配置文件模板  
 iptv.m3u为iptv视频源  
 iptv6.m3u为iptv6的视频源  
+ACL4SSR_Online_Mini.ini 为clash的简配规则集
 
 #### 安装教程
 
